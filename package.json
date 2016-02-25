@@ -1,6 +1,6 @@
 {
     "name": "passport-onedrive",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Microsoft One Drive authentication strategy for Passport.",
     "keywords": ["passport", "microsoft", "onedrive", "onedrive.com", "oauth", "oauth 2.0", "auth", "api", "authentication", "slugbay", "slugbay.com"],
     "repository": {

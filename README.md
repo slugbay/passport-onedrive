@@ -23,7 +23,7 @@ accepts these credentials and calls `done` providing a user, as well as
 `options` specifying a client ID, client secret, and callback URL.
 
 The consumer key and secret are obtained by [creating an application](https://dev.onedrive.com/app-registration.htm) at
-Google's [developer](https://dev.onedrive.com/index.htm) site.
+Microsoft's [developer](https://dev.onedrive.com/index.htm) site.
 
 ```js
     passport.use(new OneDriveStrategy({

@@ -17,8 +17,7 @@ middleware, including [Express](http://expressjs.com/).
 
 #### Configure Strategy
 
-The box authentication strategy authenticates users using a box
-account and OAuth 2.0 tokens.  The strategy requires a `verify` callback, which
+The one drive authentication strategy authenticates users using a microsoft account and OAuth 2.0 tokens.  The strategy requires a `verify` callback, which
 accepts these credentials and calls `done` providing a user, as well as
 `options` specifying a client ID, client secret, and callback URL.
 

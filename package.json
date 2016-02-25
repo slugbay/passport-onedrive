@@ -1,0 +1,27 @@
+{
+    "name": "passport-onedrive",
+    "version": "0.0.3",
+    "description": "Microsoft One Drive authentication strategy for Passport.",
+    "keywords": ["passport", "microsoft", "onedrive", "onedrive.com", "oauth", "oauth 2.0", "auth", "api", "authentication", "slugbay", "slugbay.com"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/slugbay/passport-onedrive.git"
+    },
+    "author": {
+        "name": "Sluggy Bear",
+        "email": "contact@slugbay.com",
+        "url": "https://www.slugbay.com"
+    },
+    "licenses": [ {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/MIT" 
+    } ],
+    "main": "./lib/",
+    "dependencies": {
+        "pkginfo": "0.2.x",
+        "passport-oauth2": "1.2.0"
+    },
+    "engines": {
+        "node": ">= 0.4.0"
+    }
+}

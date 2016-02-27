@@ -77,3 +77,4 @@ For a complete, working example, refer to the [login example](https://github.com
 ## License
 
   - [The MIT License](http://opensource.org/licenses/MIT)
+

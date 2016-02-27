@@ -1,4 +1,4 @@
-# Passport-onedrive
+# Passport-onedrive ![Travis Status](https://travis-ci.org/slugbay/passport-onedrive.png)
 
 [![NPM](https://nodei.co/npm/passport-onedrive.png?downloads=true)](https://nodei.co/npm/passport-onedrive/) [![NPM](https://nodei.co/npm-dl/passport-onedrive.png?months=5&height=2)](https://nodei.co/npm/passport-onedrive/)
 

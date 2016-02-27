@@ -1,5 +1,7 @@
 # Passport-onedrive
 
+[![NPM](https://nodei.co/npm/passport-onedrive.png?downloads=true)](https://nodei.co/npm/passport-onedrive/) [![NPM](https://nodei.co/npm-dl/passport-onedrive.png?months=5&height=2)](https://nodei.co/npm/passport-onedrive/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Microsoft OneDrive](https://onedrive.live.com) using the OAuth 2.0 API.
 
